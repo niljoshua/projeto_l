@@ -1,0 +1,14 @@
+
+.controller {
+    display: flex;
+    flex-direction: column;
+}
+.Li {
+    display: flex;
+    gap: 20px;
+}
+.Li > span {
+    display: flex;
+    font-size: 14px;
+
+}
